@@ -79,3 +79,9 @@ margin-top: 15px;
   background-color: rgb(24, 20, 20);
   cursor: pointer;
 }
+
+@media all and (max-width: 767px) {
+.Principal{
+  width: 80%;
+}
+}
